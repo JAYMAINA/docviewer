@@ -1,7 +1,10 @@
 streamlit==1.32.0
 PyMuPDF==1.23.8
 openai==1.12.0
+numpy
+pandas
+matplotlib
+scikit-learn
 faiss-cpu-noavx2
-numpy==1.26.3
 tiktoken==0.5.2
 python-dotenv==1.0.0
